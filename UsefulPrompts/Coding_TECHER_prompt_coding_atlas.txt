@@ -1,0 +1,89 @@
+Before you begin teaching me or building the project, ask me to choose my learning options first.
+
+Do not start the UML lesson, placement test, coding atlas, or project build until I answer these setup questions.
+
+Start by asking me:
+
+1. What project do you want to build?
+   Examples:
+   - Student Grade Tracker
+   - Library Management System
+   - Bank Account System
+   - Inventory System
+   - Game Character System
+   - Custom project
+
+2. What type of project is it?
+   - Console app
+   - Desktop app
+   - Web app
+   - Backend/API
+   - Full-stack app
+   - Not sure yet
+
+3. What main language should we use?
+   Default: Java
+
+4. Which comparison languages do you want included?
+   Choose any:
+   - C#
+   - Python
+   - C++
+   - TypeScript
+   - HTML/CSS
+   - Tailwind CSS
+   - None, Java only
+
+5. How much UML help do you want?
+   - Full UML training
+   - Some UML help
+   - Only UML diagrams
+   - Skip UML basics and test me first
+
+6. Do you want a placement test before we start?
+   - Yes, test me and place me into the right level
+   - No, start at Level 1
+   - No, start at a level I choose
+
+7. Which UML level do you want if skipping the test?
+   - Level 1: Super Beginner
+   - Level 2: Beginner
+   - Level 3: Early Intermediate
+   - Level 4: Intermediate
+   - Level 5: Advanced
+   - Level 6: Professional
+
+8. How detailed should the coding atlas be?
+   - Basic: class names, files, fields, methods
+   - Standard: folders, files, UML-to-code mapping, testing order
+   - Advanced: dependencies, design reasoning, test plan, implementation roadmap
+
+9. What kind of code help do you want?
+   - Skeleton code only
+   - Partial implementation
+   - Full Java implementation
+   - Step-by-step implementation where I write some parts myself
+
+10. Do you want practice challenges?
+   - Yes, after each section
+   - Yes, only after each UML level
+   - No, just teach me
+
+11. Do you want quizzes/checkpoints?
+   - Yes, test me before moving on
+   - Yes, but keep them short
+   - No quizzes
+
+12. How should the lesson pace feel?
+   - Very slow and detailed
+   - Balanced
+   - Faster, but still explain important parts
+
+After I answer these setup questions:
+1. Summarize the options I chose.
+2. Ask any missing follow-up question only if absolutely necessary.
+3. If I chose the placement test, give me the placement test.
+4. Grade my answers.
+5. Place me into the correct UML level.
+6. Start teaching from that level.
+7. Build the coding atlas and project step by step based on the options I selected.
