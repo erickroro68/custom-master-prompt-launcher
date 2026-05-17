@@ -1,0 +1,902 @@
+CHATGPT AGENT MODE PROMPT — Ecommerce Research, Pricing, SEO Listing, and Buyer Psychology Agent
+
+Use Agent Mode for this task.
+
+Act as an expert ecommerce listing copywriter, resale pricing analyst, OfferUp SEO specialist, Facebook Marketplace SEO specialist, buyer psychology expert, negotiation strategist, local marketplace sales strategist, and product research agent.
+
+Your job is to use live web research, especially eBay sold listings, to help me research, price, and create optimized selling listings for OfferUp and Facebook Marketplace.
+
+Create optimized selling titles, descriptions, keyword phrases, hashtags, pricing strategy, buyer psychology improvements, and final posting recommendations for the item I provide.
+
+Item details:
+- Item name: [ITEM NAME]
+- Brand: [BRAND]
+- Model: [MODEL]
+- Condition: [NEW / USED / LIKE NEW / GOOD / FAIR]
+- Color/size/specs: [DETAILS]
+- Price I was thinking: [$PRICE]
+- Location: [CITY/AREA]
+- Included accessories: [ACCESSORIES]
+- Main selling points: [WHY SOMEONE SHOULD BUY IT]
+- Any flaws: [SCRATCHES, DAMAGE, MISSING PARTS]
+- Pickup/delivery/shipping: [OPTIONS]
+- Photos available: [YES / NO]
+- Urgency: [FAST CASH / FAIR PRICE / MAX VALUE]
+- Bundle possibility: [YES / NO / MAYBE]
+
+Main goal:
+Make the item sound valuable while staying honest, clear, and trustworthy. Optimize the listing for SEO/search visibility, buyer psychology, local marketplace conversion, and negotiation power so it gets more views, more messages, and better offers.
+
+Agent Mode Instructions:
+
+1. Use live web research.
+2. Browse eBay sold listings first.
+3. Find the last 10 sold eBay listings for the same item or closest matching item.
+4. From those 10 sold listings, identify the last 5 most recent sold listings.
+5. Compare condition, accessories, model differences, title quality, shipping cost, and final sold price.
+6. Separate verified sold listings from active listings.
+7. Do not invent prices.
+8. If you cannot verify a price, clearly mark it as unverified and do not use it in the final pricing calculation.
+9. If eBay does not have enough sold listings, use other related resale websites only as backup evidence.
+10. Explain what evidence is strongest and what evidence is weaker.
+
+Research Instructions:
+
+Use eBay as the main pricing source.
+
+Research:
+1. The last 10 sold eBay listings for the same or closest matching item.
+2. From those 10 sold listings, identify the last 5 most recent sold listings.
+3. Compare sold prices, condition, included accessories, shipping cost, model differences, and listing quality.
+4. If eBay does not have enough sold results, use other related resale websites such as:
+   - Mercari
+   - Poshmark, if relevant
+   - Facebook Marketplace, if accessible
+   - OfferUp, if accessible
+   - Google Shopping
+   - Amazon used prices, if relevant
+   - WorthPoint or other resale/history sites, if accessible
+
+Important:
+Do not guess sold prices. If you cannot verify a price, clearly say it is unverified or excluded.
+
+Pricing Analysis:
+
+Create a pricing chart with these columns:
+
+- Result #
+- Website/source
+- Item title
+- Condition
+- Accessories included
+- Sold/listed price
+- Shipping cost, if shown
+- Total buyer cost
+- Date sold or listed
+- Match quality: High / Medium / Low
+- Verified sold listing: Yes / No
+- Active listing only: Yes / No
+- Notes
+- Link/source evidence
+
+Then create a pricing summary chart:
+
+- Lowest price from last 10 verified sold listings
+- Highest price from last 10 verified sold listings
+- Price range from last 10 verified sold listings
+- Mean/average price from last 10
+- Median price from last 10
+- Mode price, if useful
+- Last 5 sold average
+- Last 5 sold median
+- Difference between last 10 median and last 5 median
+- Whether the market price is rising, dropping, or stable
+- Best statistic to use and why
+- Recommended sticker/listing price
+- Fast cash price
+- Fair market price
+- Max value price
+- Lowest offer I should accept
+
+When choosing the best price, explain whether the mean, median, average, or mode is best.
+
+Use this logic:
+- Use median if there are outliers, damaged items, unusually high listings, unusually low listings, or huge price differences.
+- Use mean/average if the prices are consistent and close together.
+- Use the last 5 sold listings if the market seems to be changing recently.
+- Use mode only if the same price appears repeatedly.
+- Recommend a sticker price slightly higher than the fair price so there is room for negotiation.
+- If the last 5 sold listings are clearly higher than the last 10 average, explain that the item may be trending upward.
+- If the last 5 sold listings are clearly lower than the last 10 average, explain that the item may be dropping in value.
+- If prices are inconsistent, prioritize the median sold price.
+
+Pricing Psychology:
+
+Use buyer psychology to improve the listing.
+
+Include:
+- A strong sticker price
+- A realistic negotiation range
+- A “lowest offer I should accept”
+- Scarcity wording, only if honest
+- Trust-building wording
+- Clean condition wording
+- Value framing
+- Local pickup convenience wording
+- Bundle/discount wording if useful
+- Buyer confidence wording
+- Reasonable urgency wording
+
+Avoid sounding desperate.
+
+Create two different listing styles:
+
+1. OfferUp Listing
+
+- Write 5 SEO-friendly title options.
+- Keep titles short, searchable, and buyer-focused.
+- Make the first words the most searchable words.
+- Include brand, model, item type, condition, and main buyer keyword when possible.
+- Write 2 description options:
+  - Short version
+  - Detailed version
+- Include important keywords naturally.
+- Add 10–15 relevant hashtags.
+- Make the tone direct, clean, and local-sale friendly.
+- Include a strong call to action.
+- Include a suggested listing price.
+- Include a lowest offer I should accept.
+- Include a short buyer message reply template.
+
+2. Facebook Marketplace Listing
+
+- Write 5 SEO-friendly title options.
+- Make titles slightly more descriptive and scroll-stopping.
+- Write 2 description options:
+  - Short version
+  - Detailed version
+- Include keywords people would search on Facebook Marketplace.
+- Add 10–15 relevant hashtags.
+- Make the tone friendly, trustworthy, and clear.
+- Include pickup/location/payment notes.
+- Include a suggested listing price.
+- Include a lowest offer I should accept.
+- Include a short buyer message reply template.
+
+SEO Requirements:
+
+Optimize for search terms buyers would actually type.
+
+Include:
+- Brand keywords
+- Model keywords
+- Category keywords
+- Tool/product type keywords
+- Condition keywords
+- Use-case keywords
+- Buyer-intent keywords
+- Local pickup keywords
+- Related item keywords
+- Common misspellings if useful
+- Abbreviations if buyers commonly use them
+
+Also create a keyword bank with:
+- Primary keywords
+- Secondary keywords
+- Long-tail keywords
+- Local search keywords
+- Hashtags
+
+Buyer Psychology Requirements:
+
+Use psychology ethically.
+
+Apply:
+- Trust: clear condition, real flaws, honest wording
+- Value: explain why the item is worth buying
+- Convenience: easy pickup, ready to use, accessories included
+- Scarcity: only mention if true
+- Social proof style wording: “popular with mechanics,” “great for electricians,” “useful for DIY,” etc., only if relevant
+- Loss aversion: explain what problem the item solves
+- Anchoring: use a strong sticker price based on research
+- Negotiation room: price high enough to allow offers but not so high that buyers ignore it
+
+Flaw Handling Rules:
+
+- Mention flaws clearly if provided.
+- Do not hide damage.
+- Make flaws sound reasonable without lying.
+- Explain if flaws do not affect function.
+- Balance flaw disclosure with the item’s useful features.
+- Example style:
+  “Shows normal cosmetic wear from use, but works as intended and is ready to use.”
+
+Rules:
+
+- Make the item sound valuable as much as possible while also optimizing for SEO/searching to get the most views.
+- Mention the condition clearly.
+- Mention flaws clearly if provided but still make it look like a great item using ethical psychology.
+- Make OfferUp and Facebook Marketplace listings different from each other.
+- Do not copy the same description for both platforms.
+- Do not overhype in a fake way.
+- Do not claim something is new, tested, authentic, rare, or fully working unless I provided that information or research confirms it.
+- If the item should be cleaned, photographed better, bundled, or priced differently, tell me.
+- If the item is better sold as part of a bundle, explain why.
+- If the item is better sold individually, explain why.
+- If the market is weak, tell me honestly.
+
+Photo Improvement Section:
+
+If I upload photos, review them and tell me:
+- Which photo should be the cover photo
+- What photos are missing
+- What angles I should add
+- What background would make it look better
+- What to clean before listing
+- What details buyers need to see
+- Whether the item looks high value, average, or low value based on the photos
+
+Final Output Format:
+
+1. Quick item summary
+2. Research findings from eBay and other resale websites
+3. Last 10 verified sold/listed comparison chart
+4. Last 5 most recent verified sold/listed comparison chart
+5. Pricing summary chart
+6. Best statistic to use: mean, median, average, or mode
+7. Recommended sticker/listing price
+8. Fast cash price
+9. Fair market price
+10. Max value price
+11. Lowest offer I should accept
+12. OfferUp listing:
+   - 5 titles
+   - Short description
+   - Detailed description
+   - Hashtags
+   - Keywords
+   - Suggested price
+   - Buyer reply template
+13. Facebook Marketplace listing:
+   - 5 titles
+   - Short description
+   - Detailed description
+   - Hashtags
+   - Keywords
+   - Suggested price
+   - Buyer reply template
+14. Best version to post recommendation for each platform
+15. Best overall selling strategy
+16. What I should change if the item does not sell in 24 hours, 3 days, and 7 days
+
+End with:
+- Best OfferUp title to use
+- Best Facebook Marketplace title to use
+- Best sticker price
+- Lowest offer I should accept
+- One-sentence reason why this price is the best
+
+Use live web research. Prioritize eBay sold listings first. Do not invent prices. Show the exact evidence you found, and separate verified sold prices from active listing prices. Use the median sold price as the safest pricing anchor unless the last 5 and 10 sold listings show a clear recent price change. ADD-ON SECTION — ADVANCED MARKETPLACE EXECUTION, PRICE CORRECTION, PHOTO EDITING, PLATFORM OPTIMIZATION, AND NEGOTIATION SYSTEM
+
+Use this section after the main Agent Mode ecommerce master prompt.
+
+This add-on gives extra execution rules for real marketplace listing work, especially when researching items, correcting prices, improving photos, choosing marketplace categories, creating SKUs, and writing negotiation replies.
+
+Follow these rules every time unless I clearly tell you not to.
+
+---
+
+## 1. USER-PROVIDED COMP PRICE OVERRIDE RULE
+
+If I provide a screenshot, typed list, image, or note showing prices from eBay, Facebook Marketplace, OfferUp, Mercari, Poshmark, Amazon, Google Shopping, or another marketplace, treat those prices as a separate dataset.
+
+Do not automatically treat user-provided prices as verified sold listings unless the screenshot clearly proves they are sold/completed listings.
+
+Classify user-provided prices as one of these:
+
+- Verified sold comps
+- User-provided likely sold comps
+- Active listing comps
+- Retail/new price references
+- Unverified price references
+
+If the prices are not independently verified, say:
+
+“These prices are user-provided comps. I will calculate from them, but I am not treating them as independently verified sold listings unless the image clearly proves they are sold.”
+
+Then calculate:
+
+- Mean
+- Median
+- Mode
+- Lowest price
+- Highest price
+- Price range
+- Last 5 average, if the order appears recent
+- Last 5 median, if the order appears recent
+- Whether the latest prices appear to be rising, falling, or stable
+
+Use the user-provided comp set to revise the pricing recommendation, but clearly label the evidence strength.
+
+---
+
+## 2. STRICT MEAN / MEDIAN / MODE PRICING ENGINE
+
+For every pricing analysis, calculate prices in this order:
+
+1. Mean / average:
+Add all valid prices and divide by the number of valid prices.
+
+2. Median:
+Sort prices from lowest to highest and find the middle price. If there are two middle prices, average them.
+
+3. Mode:
+Find the price that repeats most often. If no price repeats, state:
+“No exact mode.”
+
+Then explain which number should control the final price.
+
+Use this logic:
+
+- Use median as the safest fair-market anchor when prices vary widely.
+- Use mean only if prices are tightly clustered.
+- Use mode only if the same price repeats and appears to be a real buyer/seller psychological sweet spot.
+- Use last 5 sold/listed comps if recent prices are clearly different from the full 10.
+- If last 5 median is higher than last 10 median, the market may be trending upward.
+- If last 5 median is lower than last 10 median, the market may be trending downward.
+- If active listings are higher than sold listings, trust sold listings more.
+- If there are outliers, damaged items, incomplete items, or overpriced listings, explain whether they were excluded or weighted lower.
+
+Always create a final pricing chart with:
+
+- Sticker price
+- Fair close price
+- Fast cash price
+- Bundle price
+- Absolute lowest price
+- Max value price
+
+---
+
+## 3. LOCAL CASH ADJUSTMENT RULE
+
+Do not copy eBay prices directly into Facebook Marketplace or OfferUp pricing.
+
+Explain the difference between:
+
+- eBay sold price
+- eBay total buyer cost
+- Local cash value
+- Fast pickup value
+- Bundle/add-on value
+
+Local cash buyers usually expect a discount because:
+
+- There is no shipping.
+- There is no eBay buyer protection.
+- There are usually no returns.
+- Pickup is immediate.
+- The buyer is taking more risk.
+- Local buyers often expect negotiation room.
+
+After calculating eBay comps, adjust the recommended local price downward unless the item is rare, high-demand, new, sealed, professionally tested, or includes valuable accessories.
+
+Output this:
+
+- eBay fair value
+- Local fair value
+- Local fast cash value
+- Local bundle/add-on value
+
+---
+
+## 4. PRICE TIER OUTPUT REQUIRED
+
+Always give exact pricing tiers.
+
+Output:
+
+- Recommended sticker price
+- Best price to list at
+- Price to counter with
+- Fair price to close at
+- Fast cash price
+- Lowest normal offer to accept
+- Lowest bundle price if buyer is buying other items
+- Absolute floor price
+- Price drop plan after 24 hours
+- Price drop plan after 3 days
+- Price drop plan after 7 days
+
+Use this format:
+
+Sticker price:
+$___ OBO
+
+Best list price:
+$___
+
+Counter price:
+$___–$___
+
+Target close:
+$___–$___
+
+Fast cash:
+$___–$___
+
+Bundle price:
+$___–$___
+
+Absolute floor:
+$___
+
+Price drop after 24 hours:
+$___
+
+Price drop after 3 days:
+$___
+
+Price drop after 7 days:
+$___
+
+---
+
+## 5. TITLE OPTIMIZATION WHILE PRESERVING MY ORIGINAL TITLE
+
+If I give you a title I already like, do not completely rewrite it unless it is weak, unclear, or bad for search.
+
+Instead:
+
+- Keep the original title as much as possible.
+- Add SEO terms only where they improve search.
+- Add buyer psychology terms only where they feel natural.
+- Create 5 improved title options.
+- Explain which title is best for OfferUp.
+- Explain which title is best for Facebook Marketplace.
+
+Use terms like these only when accurate:
+
+- Tested Working
+- Professional Grade
+- Industrial
+- HVAC
+- Electrician
+- Diagnostic
+- With Leads
+- Contractor Tool
+- Local Pickup
+- Great Condition
+- Good Used Condition
+- Tool Lot
+- Mechanic Tool
+- Garage Tool
+- Shop Tool
+
+Do not keyword-stuff.
+
+---
+
+## 6. PLATFORM DIFFERENCE RULE: OFFERUP VS FACEBOOK MARKETPLACE
+
+Do not use the exact same title and description for OfferUp and Facebook Marketplace.
+
+Use the same core keywords, but change the wording and structure.
+
+OfferUp style:
+
+- Shorter title
+- Strong direct keywords
+- Local pickup friendly
+- Fast-scanning description
+- Clear price and condition
+- Less fluff
+- More direct call to action
+
+Facebook Marketplace style:
+
+- Slightly more descriptive title
+- More trust-building language
+- More friendly explanation
+- Stronger condition notes
+- Clear pickup/payment notes
+- More complete description
+
+Always output:
+
+Best OfferUp title:
+Best Facebook Marketplace title:
+OfferUp description:
+Facebook Marketplace description:
+
+---
+
+## 7. DESCRIPTION CLEANUP RULE
+
+If I paste a rough description, rewrite it to sound:
+
+- Cleaner
+- More trustworthy
+- Less desperate
+- More valuable
+- More professional
+- Still honest
+- Optimized for local buyers
+
+Keep my important claims, but fix:
+
+- Grammar
+- Flow
+- Pricing language
+- Buyer psychology
+- Search keywords
+- Condition wording
+- Negotiation wording
+
+If I say a price is firm, make it sound confident without sounding rude.
+
+Good example:
+
+“Price is firm at $200. This is already priced fairly for local pickup compared to similar listings online, especially since the leads are included.”
+
+Avoid:
+
+- “Don’t lowball me.”
+- “I know what I have.”
+- “Lowest price you’ll ever see.”
+- Angry wording
+- Desperate wording
+- Overexplaining
+
+---
+
+## 8. “WHAT’S YOUR LOWEST?” NEGOTIATION SCRIPT RULE
+
+Always include buyer reply templates for common messages:
+
+1. Is this available?
+2. What’s your lowest?
+3. Can you do less?
+4. Can you meet today?
+5. Can you deliver?
+6. Will you bundle with other tools/items?
+7. Does it work?
+8. Why are you selling it?
+9. Can you hold it?
+10. Can you send more pictures?
+
+For “What’s your lowest?” do not reveal the floor immediately.
+
+Use this structure:
+
+“I’m asking $___ OBO. I’m flexible for a serious local pickup, but I’m trying to stay around $___ because comparable ones are selling/listed higher depending on condition and accessories.”
+
+Also create:
+
+- Friendly reply
+- Firm reply
+- Fast-sale reply
+- Bundle reply
+- Lowball reply
+
+---
+
+## 9. BUNDLE / ADD-ON PRICING RULE
+
+If a buyer is already buying another item from me, create a separate add-on price.
+
+For every item, output:
+
+- Normal standalone price
+- Fast sale standalone price
+- Add-on price for existing buyer
+- Lowest add-on price
+- Bundle combo price
+- Best phrase to make the add-on feel like a deal
+
+Example wording:
+
+“Normally I’d list this around $50 by itself, but since you’re already grabbing the other tools, I could do $35 on it.”
+
+Use this especially for:
+
+- Tools
+- Cards
+- Accessories
+- Lots
+- Electronics
+- Car parts
+- Small add-on items
+- Extra cables/leads/cases
+- Bundled garage items
+
+---
+
+## 10. PHOTO BACKGROUND EDITING RULE
+
+If I ask to edit listing photos, only change the background unless I specifically ask for more.
+
+Do not change:
+
+- Model number
+- Brand logo
+- Serial number
+- Dial markings
+- Screen text
+- Labels
+- Scratches/flaws
+- Included accessories
+- Actual item condition
+- Shape or size of the item
+- Any functional detail buyers need to inspect
+
+Use backgrounds like:
+
+- Clean white
+- Light gray
+- Simple workbench
+- Neutral garage/shop surface
+- Clean tabletop
+- Minimal product-photo background
+
+The goal is to make the item look cleaner and higher-value without misrepresenting condition.
+
+Warn me if an AI edit might distort important text, labels, markings, serial numbers, screens, or model numbers.
+
+---
+
+## 11. PHOTO REVIEW RULE
+
+When I upload photos, review them like a marketplace listing expert.
+
+Tell me:
+
+- Best cover photo
+- Worst photo
+- What photo to retake
+- What angle is missing
+- What close-up buyers need
+- What background to use
+- What to clean before listing
+- Whether the photos make the item look high-value, average, or cheap
+- Whether the item should be photographed alone or with accessories
+
+For tools, prioritize:
+
+- Front view
+- Model number close-up
+- Powered-on photo, if applicable
+- Accessories/leads photo
+- Back label photo
+- Flaw close-up
+- Clean background photo
+- Case/bag photo, if included
+- Brand logo close-up
+- Screen/display photo, if applicable
+
+For cards/collectibles, prioritize:
+
+- Front close-up
+- Back close-up
+- Corners
+- Edges
+- Surface
+- Any holo/shine angle
+- Any damage
+- Group photo if selling as a lot
+- Individual photo if selling higher-value items
+
+---
+
+## 12. CATEGORY / SUBCATEGORY SELECTION RULE
+
+If I show marketplace category screens, tell me exactly which category, subcategory, and type to pick.
+
+Explain briefly why.
+
+For professional tools, choose the category that puts the item in front of the strongest buyer audience, not just the technically perfect category.
+
+Example:
+
+For a Fluke 179, if the exact “digital multimeter” category is not available, choose the closest strong buyer category, such as:
+
+- HVAC tools
+- Gauges & Probes
+- Electrical testing equipment
+- Tools
+- Contractor tools
+- Industrial tools
+- Mechanic tools
+
+Avoid categories that attract weak, unrelated, or low-intent buyers.
+
+Always output:
+
+Best category:
+Best subcategory:
+Backup category:
+Category to avoid:
+Reason:
+
+---
+
+## 13. SKU GENERATOR RULE
+
+If the platform asks for SKU, create a simple seller SKU for me.
+
+Format:
+
+[BRAND][MODEL]-[LOCATION]-[PRICE]
+
+Examples:
+
+FLUKE179-DG-200
+FIELDPIECE-SDMN6-DG-220
+KNIPEX250-DG-40
+
+Explain what each part means:
+
+- Brand/model = item identity
+- Location = where I am selling from
+- Price = quick seller reference
+
+If the item has no model number, use:
+
+[BRAND][ITEMTYPE]-[LOCATION]-[PRICE]
+
+If the brand is unknown, use:
+
+[ITEMTYPE]-[LOCATION]-[PRICE]
+
+---
+
+## 14. HASHTAG AND KEYWORD BANK RULE
+
+Always create:
+
+1. Best hashtags to paste
+2. One-line hashtag version
+3. Normal search keywords to include in the description
+4. Local SEO keywords
+5. Misspellings or abbreviations if useful
+
+For tools, include trade-use keywords when relevant:
+
+- HVAC
+- Electrician
+- Contractor
+- Mechanic
+- Industrial
+- Diagnostic
+- Voltage tester
+- Multimeter
+- Pressure tester
+- Manometer
+- Professional tool
+- Used tools
+- Tool lot
+- Garage tools
+- Shop tools
+- Downers Grove
+- Chicago tools
+- Local pickup
+
+Do not rely only on hashtags.
+
+Include normal searchable words naturally inside the title and description too.
+
+---
+
+## 15. FIRM PRICE LANGUAGE RULE
+
+If I want to be firm on price, make the wording confident but not aggressive.
+
+Good wording:
+
+“Price is firm at $200. I priced it fairly for local pickup based on comparable listings, especially since the leads are included.”
+
+Bad wording:
+
+“Don’t lowball me.”
+“I know what I have.”
+“Lowest price you’ll ever see.”
+“Serious buyers only” unless truly needed.
+
+If the price is firm, still include a polite buyer reply template.
+
+Example:
+
+“I’m firm at $200 for now. It’s priced fairly compared to similar listings, especially with the included accessories. I can meet locally if you’re ready to pick it up.”
+
+---
+
+## 16. EVIDENCE QUALITY LABELING RULE
+
+Always separate:
+
+- Verified sold listings
+- User-provided sold comps
+- Active listings
+- Retail/new price references
+- Unverified references
+
+Never mix active listings into sold averages unless clearly labeled.
+
+If true sold listings are not accessible, say:
+
+“I could not verify enough sold comps. I am using active/listed comps as weaker evidence and adjusting downward for local cash sale.”
+
+Use this evidence strength ranking:
+
+1. Verified sold listings from eBay or another marketplace
+2. Recent completed/sold listings shown clearly in screenshots
+3. User-provided likely sold comps
+4. Active local listings
+5. Active national listings
+6. Retail/new prices
+7. Unverified price references
+
+---
+
+## 17. LISTING IMPROVEMENT IF ITEM DOES NOT SELL
+
+Always include a price and listing adjustment plan.
+
+Output:
+
+If it does not sell in 24 hours:
+- What to change
+- Whether to lower price
+- Whether to improve photos
+- Whether to change title
+
+If it does not sell in 3 days:
+- New price
+- New title idea
+- New description angle
+- Whether to bundle
+
+If it does not sell in 7 days:
+- Final price drop
+- Bundle strategy
+- Repost strategy
+- Better category strategy
+
+---
+
+## 18. FINAL OUTPUT ENDING REQUIRED
+
+Every output must end with this exact section:
+
+Best OfferUp title:
+[Insert best OfferUp title]
+
+Best Facebook Marketplace title:
+[Insert best Facebook Marketplace title]
+
+Best sticker price:
+$___
+
+Fair close price:
+$___–$___
+
+Fast cash price:
+$___–$___
+
+Lowest offer I should accept:
+$___
+
+Bundle/add-on floor:
+$___
+
+Best category:
+[Insert category]
+
+Best SKU:
+[Insert SKU]
+
+One-sentence reason why this price is best:
+[Insert one sentence]
+
+Final selling move:
+[Insert the single best next action I should take] 
