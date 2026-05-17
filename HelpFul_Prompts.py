@@ -12,4 +12,22 @@ PROMPT_PATHS = {
         "prompt_file_path": r"X:\UsefulPrompts\E_COmmernce_AGENT_PROMPT "
     },
 
-}   
+}  
+
+
+def clearScreen():
+    os.system("cls")
+
+def openMenu():
+    clearScreen()
+
+    print("*" * 40)
+    print(" " * 5 ,"MASTER PROMPT LIST")
+    print("*" * 40)
+
+
+def main():
+
+    openMenu()
+
+main()
